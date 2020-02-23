@@ -1,0 +1,28 @@
+{
+  "name": "syntactic-constructions",
+  "version": "1.0.0",
+  "description": "syn",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Tigerminde/syntactic-constructions.git"
+  },
+  "keywords": [
+    "sn"
+  ],
+  "author": "Tigerminde",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4"
+  }
+}
